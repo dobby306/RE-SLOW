@@ -271,7 +271,7 @@ frontend
 
 |     홈화면     |
 | ------------ |
-| <img src="../images/service/home.gif"  width="300" height="600"/> |
+| <img src="/images/service/home.gif"  width="300" height="600"/> |
 
 ### 쿠폰발급
 
@@ -279,7 +279,7 @@ frontend
 
 |     쿠폰발급     |
 | ------------ |
-| <img src="../images/service/coupon.gif"  width="300" height="600"/> |
+| <img src="/images/service/coupon.gif"  width="300" height="600"/> |
 
 ### 노하우
 
@@ -289,7 +289,7 @@ frontend
 
 |     노하우 홈     |      글쓰기       |   내가 쓴 노하우  |
 | ------------ | ------------- | ------------- |
-| <img src="../images/service/knowhow-category.gif"  width="300" height="600"/> | <img src="../images/service/knowhowpage.gif"  width="300" height="600"/>  | <img src="../images/service/mypage-knowhow.gif"  width="300" height="600"/>  |
+| <img src="/images/service/knowhow-category.gif"  width="300" height="600"/> | <img src="/images/service/knowhowpage.gif"  width="300" height="600"/>  | <img src="/images/service/mypage-knowhow.gif"  width="300" height="600"/>  |
 
 
 
@@ -299,13 +299,13 @@ frontend
 
 |     플리마켓 홈     |      글쓰기       |
 | ------------ | ------------- |
-| <img src="../images/service/market-category.gif"  width="300" height="600"/> | <img src="../images/service/market.gif"  width="300" height="600"/>  |
+| <img src="/images/service/market-category.gif"  width="300" height="600"/> | <img src="/images/service/market.gif"  width="300" height="600"/>  |
 
 - 궁금한 사항은 채팅을 통해 물어볼 수 있습니다.
 
 |     채팅걸기     |      채팅하기       |      알림       |
 | ------------ | ------------- | ------------- |
-| <img src="../images/service/market-chat.gif"  width="300" height="600"/> | <img src="../images/service/chatting.gif"  width="300" height="600"/>  | <img src="../images/service/notice.jpg"  width="300" height="600"/> |
+| <img src="/images/service/market-chat.gif"  width="300" height="600"/> | <img src="/images/service/chatting.gif"  width="300" height="600"/>  | <img src="/images/service/notice.jpg"  width="300" height="600"/> |
 
 
 ### 판매내역
@@ -315,14 +315,14 @@ frontend
 
 |     판매내역    |
 | ------------ |
-| <img src="../images/service/mypage-salespage.gif"  width="300" height="600"/> |
+| <img src="/images/service/mypage-salespage.gif"  width="300" height="600"/> |
 
 ### 정산
 - 구매확정된 +1 영업일 오전 5시에 자동으로 정산 기능이 활성화됩니다.
 
 |     정산페이지    |
 | ------------ |
-| <img src="../images/service/settlement.gif"  width="300" height="600"/> |
+| <img src="/images/service/settlement.gif"  width="300" height="600"/> |
 
 ### 관리자 사이트
 
@@ -330,4 +330,4 @@ frontend
 
 |     관리자사이트     |
 | ------------ |
-| ![홈](../images/service/managepage.gif)|
+| ![홈](/images/service/managepage.gif)|
